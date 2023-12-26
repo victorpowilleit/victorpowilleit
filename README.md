@@ -24,5 +24,5 @@ Whether for professional collaborations, exchanging experiences, or simply conne
 </div>
 <br/>
 <div>
-  <a href = "mailto:contato@vpdev.com.br"><img src="https://img.shields.io/badge/Mail%3A-contato%40vpdev.com.br-brightgreen?style=for-the-badge"></a><a href="https://instagram.com/_victor.powilleit_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/victor-powilleit-42945b255" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contato@vpdev.com.br"><img src="https://img.shields.io/badge/Mail%3A-contato%40vpdev.com.br-brightgreen?style=for-the-badge"></a><a href="https://instagram.com/_victor.powilleit_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href="www.linkedin.com/in/victorpowilleit" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>

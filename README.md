@@ -1,10 +1,14 @@
 ## Hi there 👋
-### I'm Victor Powilleit, and I'm a front-end dev
+### I'm a technology enthusiast with a special attraction for the programming universe. I work as a Front-End Developer, conceiving life and interactivity to the web through my skills in HTML5, CSS3, Tailwind CSS, JavaScript, and ReactJS.
+
+Currently, I am part of the Intelligence Unit of the investigative police in São Paulo, Brazil, of wich I unfortunately cannot share my work for obvious reasons 🤷🏻‍♂️.
+
+Whether for professional collaborations, exchanging experiences, or simply connecting with people, I am always seeking for new opportunities and connections in the world of tech.
 
 <div align="left">
   <a href="https://github.com/VictorPowilleit">
   <!-- img height="180rem" src="https://github-readme-stats.vercel.app/api?username=Victorpowilleit&show_icons=true&theme=react&include_all_commits=true&count_private=true"/ -->
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPowilleit&layout=compact&langs_count=7&theme=react"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPowilleit&layout=compact&langs_count=7&theme=react"/>🤷🏻‍♂️
 </div>
 
 <div style="display: flex;"><br>

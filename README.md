@@ -8,7 +8,7 @@ Whether for professional collaborations, exchanging experiences, or simply conne
 <div align="left">
   <a href="https://github.com/VictorPowilleit">
   <!-- img height="180rem" src="https://github-readme-stats.vercel.app/api?username=Victorpowilleit&show_icons=true&theme=react&include_all_commits=true&count_private=true"/ -->
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPowilleit&layout=compact&langs_count=7&theme=react"/>🤷🏻‍♂️
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPowilleit&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 <div style="display: flex;"><br>

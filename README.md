@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### I'm a technology enthusiast with a special attraction for the programming universe. I work as a Front-End Developer, conceiving life and interactivity to the web through my skills in HTML5, CSS3, Tailwind CSS, JavaScript, and ReactJS.
 
-Currently, I am part of the Intelligence Unit of the investigative police in São Paulo, Brazil, of wich I unfortunately cannot share my work for obvious reasons 🤷🏻‍♂️.
+Currently, I am part of the Intelligence Unit of the investigative police in São Paulo, Brazil, of which I unfortunately cannot share my work for obvious reasons 🤷🏻‍♂️.
 
 Whether for professional collaborations, exchanging experiences, or simply connecting with people, I am always seeking for new opportunities and connections in the world of tech.
 
